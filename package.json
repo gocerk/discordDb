@@ -1,0 +1,26 @@
+{
+  "name": "discorddb",
+  "version": "1.0.0",
+  "description": "a discord bot for saving datas to mongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaanfkennedy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaanfkennedy/discordDb.git"
+  },
+  "keywords": [
+    "discordjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/kaanfkennedy/discordDb/issues"
+  },
+  "homepage": "https://github.com/kaanfkennedy/discordDb#readme"
+}
